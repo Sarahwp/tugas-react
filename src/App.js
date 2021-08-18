@@ -6,7 +6,7 @@ import hobby3 from "./img/joannakosinskaunsplash.jpg";
 
 function App() {
   return (
-    <body>
+    <div>
       
       <div id = "jumbotron" class="container">
        <div class="row">
@@ -124,7 +124,7 @@ function App() {
       <footer>
         <p>Be Happy &#128522;</p>
       </footer>
-    </body>
+    </div>
   );
 }
 
